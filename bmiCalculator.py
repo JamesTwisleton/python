@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
+import sys
+
 """
 Created on Wed Feb 24 18:54:37 2021
 
 @author: tijmen
 """
-import sys
-
 
 height = float(sys.argv[1]) #in meteres
 weight = float(sys.argv[2])   #in kg
