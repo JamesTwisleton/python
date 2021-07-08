@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
+import sys
+
 """
 Created on Wed Feb 24 18:54:37 2021
 
 @author: tijmen
 """
 
-height = 1.73 #in meteres
-weight = 79.6   #in kg
+height = float(sys.argv[1]) #in meteres
+weight = float(sys.argv[2])   #in kg
 x = (weight/(height**2))
 
 print (x)
