@@ -1,6 +1,6 @@
 # python
 
-A series of exercises to teach a total noob how to use Python.
+A series of exercises to teach a total noob how to use Python!
 
 ## Requirements
 
