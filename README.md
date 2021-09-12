@@ -11,3 +11,4 @@ A series of exercises to teach a total noob how to use Python.
 ## Instructions
 
 Clone this repository, open FirstSteps.ipynb 
+mark added this
